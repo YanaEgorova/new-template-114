@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #bccce2;
+  --second-brand-color: #e5e5e5;
+  --third-brand-color: gray;
+  --fourth-brand-color: rgb(53, 53, 53);
+
+  --main-font:  'Montserrat';
+  --title-font:  'Open Sans';
+  --main-title-font: 'JetBrains Mono';
+
+  font-size: 62.5%;
+}

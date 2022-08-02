@@ -226,10 +226,7 @@
 }
 
 .phrase__wrapper {
-    background-image: url('../img/bg2.jpeg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-color: var(--first-brand-color);
     position: relative;
 }
 .phrase__wrapper::after {

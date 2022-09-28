@@ -25,14 +25,13 @@
     padding: 10rem 0 5rem;
     text-align: center;
 }
-.hero .title {
-    margin-bottom: 5rem;
-}
-.hero .title span {
+
+.hero-title-span {
     font-family: var(--title-font);
     color: var(--third-brand-color);
     font-size: 5rem;
     display: block;
+    margin-bottom: 5rem;
 }
 
 .swiper-slide__img-box {
@@ -249,9 +248,7 @@
     z-index: 2;
 }
 @media screen and (min-width: 1024px) {
-    .hero .title span {
-        font-size: 8rem;
-    }
+  
     .contacts__wrapper {
         padding: 10rem 0;
     }
